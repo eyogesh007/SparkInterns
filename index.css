@@ -105,3 +105,14 @@
     background-size: cover;
     height: 30px
   }
+
+  #departments {
+    padding: 50px;
+    text-align: center;
+}
+
+.lightblue-section {
+  background-color: whitesmoke;
+  text-align: center;
+}
+
